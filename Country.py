@@ -18,7 +18,7 @@ print("COMMAND MENU")
 print("view- View a country")
 print("add- Add a country")
 print("del- Delete a country")
-print(exit- Exit program")
+print("exit- Exit program")
 print()
 
 
