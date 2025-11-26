@@ -128,7 +128,7 @@ def main():
             print()
     
     # Display goodbye message
-    print("Bye!")
+    print("GoodBye!")
 
 if __name__=="__main__":
      main()
